@@ -1,0 +1,315 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Tests.NUnit\\Task-SeniordotNETDeveloper.Tests.UnitTesting.NUnit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Models\\Task-SeniordotNETDeveloper.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Models\\Task-SeniordotNETDeveloper.Models.csproj",
+        "projectName": "Task-SeniordotNETDeveloper.Models",
+        "projectPath": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Models\\Task-SeniordotNETDeveloper.Models.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Services\\Task-SeniordotNETDeveloper.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Services\\Task-SeniordotNETDeveloper.Services.csproj",
+        "projectName": "Task-SeniordotNETDeveloper.Services",
+        "projectPath": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Services\\Task-SeniordotNETDeveloper.Services.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Models\\Task-SeniordotNETDeveloper.Models.csproj": {
+                "projectPath": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Models\\Task-SeniordotNETDeveloper.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Tests.NUnit\\Task-SeniordotNETDeveloper.Tests.UnitTesting.NUnit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Tests.NUnit\\Task-SeniordotNETDeveloper.Tests.UnitTesting.NUnit.csproj",
+        "projectName": "Task-SeniordotNETDeveloper.Tests.UnitTesting.NUnit",
+        "projectPath": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Tests.NUnit\\Task-SeniordotNETDeveloper.Tests.UnitTesting.NUnit.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Tests.NUnit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.csproj": {
+                "projectPath": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.csproj",
+        "projectName": "Task-SeniordotNETDeveloper",
+        "projectPath": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Services\\Task-SeniordotNETDeveloper.Services.csproj": {
+                "projectPath": "C:\\Users\\Alex\\source\\repos\\Task-SeniordotNETDeveloper\\Task-SeniordotNETDeveloper.Services\\Task-SeniordotNETDeveloper.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+.vs/
+Task-SeniordotNETDeveloper/bin/
+Task-SeniordotNETDeveloper/obj/
+Task-SeniordotNETDeveloper.Models/bin/
+Task-SeniordotNETDeveloper.Models/obj/
+Task-SeniordotNETDeveloper.Services/bin/
+Task-SeniordotNETDeveloper.Services/obj/
+Task-SeniordotNETDeveloper.Tests.UnitTesting.NUnit/bin/
+Task-SeniordotNETDeveloper.Tests.UnitTesting.NUnit/obj/
+-*.VisualState.xml
+-TestResult.xml
+-nunit-*.xml
+coverage*.json
+coverage*.xml
+coverage*.info

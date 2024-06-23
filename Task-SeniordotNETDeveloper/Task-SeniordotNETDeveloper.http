@@ -1,0 +1,6 @@
+@Task_SeniordotNETDeveloper_HostAddress = http://localhost:5191
+
+GET {{Task_SeniordotNETDeveloper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
